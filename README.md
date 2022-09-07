@@ -2,7 +2,7 @@
 - 👀 I’m interested in building apps with new technologies.
 - 🌱 I’m currently learning end to end development with angular, firebase, GCP, spring boot based micro service. On the other hand exploring postgres database.
 - 💞️ I’m looking to collaborate on Java teck stack projects.
-- 📫 How to reach me ... mail me at rajs22007@gmail.com
+- 📫 How to reach me ... mail me at rajs22007@gmail.com. You may also connect with me on [Linkedin - Ashish Raj](https://www.linkedin.com/in/rajs22007/)
 
 <!---
 rajs22007/rajs22007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
