@@ -1,9 +1,13 @@
-- 👋 Hi, I’m Ashish Raj (@rajs22007)
+👋👋👋 Hi, I’m Ashish Raj (@rajs22007).
+- 👨‍💻 Experienced software consultant with a demonstrated history of working in the IT industry over 12+ years in payments, financial, mortgage and telecom domains.
 - 👀 I’m interested in building apps with new technologies.
-- 🌱 I’m currently learning end to end development with React, Firebase, GCP, Spring Boot based micro service.
+- 🌱 I’m currently learning Kafka, React and Angular. Other skill upgrades at work: Java 17, Spring Boot 3, Apache Camel.
 - 💞️ I’m looking to collaborate on Java teck stack projects.
 - 📫 How to reach me ... mail me at rajs22007@gmail.com. You may also connect with me on [Linkedin - Ashish Raj](https://www.linkedin.com/in/rajs22007/)
-- Current learning work: https://siesta-cart.web.app/
+- Current learning work:
+  - Kafka: [/rajs22007/kafka-beginners-course](https://github.com/rajs22007/kafka-beginners-course)
+  - React: [nawal-interio.web.app](https://nawal-interio.web.app/)
+  - Angular: [siesta-cart.web.app](https://siesta-cart.web.app/)
 
 <!---
 rajs22007/rajs22007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
