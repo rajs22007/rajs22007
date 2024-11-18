@@ -1,5 +1,5 @@
 👋👋👋 Hi, I’m Ashish Raj (@rajs22007).
-- 👨‍💻 Experienced software consultant with a demonstrated history of working in the IT industry over 12+ years in payments, financial, mortgage and telecom domains.
+- 👨‍💻 Experienced software consultant with a demonstrated history of working in the IT industry over 13+ years in payments, financial, mortgage and telecom domains.
 - 👀 I’m interested in building apps with new technologies.
 - 🌱 I’m currently learning Kafka, React and Angular. Other skill upgrades at work: Java 17, Spring Boot 3, Apache Camel.
 - 💞️ I’m looking to collaborate on Java teck stack projects.
